@@ -7,3 +7,10 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return sentences
 }
+
+function johnLennonFacts(facts){
+  for(let i = 0; i < array.length; i++)
+  {
+    facts[i] = facts[i] + "!!!"
+  }
+}
